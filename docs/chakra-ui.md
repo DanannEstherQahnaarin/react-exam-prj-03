@@ -1,5 +1,35 @@
 # Chakra UI
 
+- [Chakra UI](#chakra-ui)
+  - [개요](#개요)
+  - [설치 방법](#설치-방법)
+  - [설정 방법](#설정-방법)
+    - [1. ChakraProvider 설정](#1-chakraprovider-설정)
+    - [2. TypeScript 설정](#2-typescript-설정)
+  - [주요 컴포넌트 사용법](#주요-컴포넌트-사용법)
+    - [컴포넌트 목록](#컴포넌트-목록)
+    - [Button (버튼)](#button-버튼)
+    - [Input (입력 필드)](#input-입력-필드)
+    - [Box \& Flex (레이아웃)](#box--flex-레이아웃)
+    - [Heading \& Text (텍스트)](#heading--text-텍스트)
+    - [Card (카드)](#card-카드)
+    - [Modal (모달)](#modal-모달)
+    - [Alert (알림)](#alert-알림)
+    - [Form (폼)](#form-폼)
+    - [Select (선택)](#select-선택)
+    - [Checkbox \& Radio (체크박스 및 라디오)](#checkbox--radio-체크박스-및-라디오)
+    - [Tabs (탭)](#tabs-탭)
+    - [Avatar (아바타)](#avatar-아바타)
+    - [Spinner (로딩 스피너)](#spinner-로딩-스피너)
+  - [색상 시스템](#색상-시스템)
+  - [반응형 디자인](#반응형-디자인)
+  - [테마 커스터마이징](#테마-커스터마이징)
+  - [주요 기능](#주요-기능)
+  - [React Hook Form과 통합](#react-hook-form과-통합)
+  - [참고 자료](#참고-자료)
+  - [버전 정보](#버전-정보)
+  - [주의사항](#주의사항)
+
 ## 개요
 Chakra UI는 React 애플리케이션을 위한 간단하고 모듈화된 컴포넌트 라이브러리입니다. 접근성을 염두에 두고 설계되었으며, 사용하기 쉬운 API와 풍부한 커스터마이징 옵션을 제공합니다.
 
@@ -43,36 +73,6 @@ Chakra UI는 TypeScript를 완전히 지원합니다. 별도의 타입 설치가
 ### 컴포넌트 목록
 
 다음은 문서에 포함된 주요 컴포넌트 목록입니다:
-
-- [Chakra UI](#chakra-ui)
-  - [개요](#개요)
-  - [설치 방법](#설치-방법)
-  - [설정 방법](#설정-방법)
-    - [1. ChakraProvider 설정](#1-chakraprovider-설정)
-    - [2. TypeScript 설정](#2-typescript-설정)
-  - [주요 컴포넌트 사용법](#주요-컴포넌트-사용법)
-    - [컴포넌트 목록](#컴포넌트-목록)
-    - [Button (버튼)](#button-버튼)
-    - [Input (입력 필드)](#input-입력-필드)
-    - [Box \& Flex (레이아웃)](#box--flex-레이아웃)
-    - [Heading \& Text (텍스트)](#heading--text-텍스트)
-    - [Card (카드)](#card-카드)
-    - [Modal (모달)](#modal-모달)
-    - [Alert (알림)](#alert-알림)
-    - [Form (폼)](#form-폼)
-    - [Select (선택)](#select-선택)
-    - [Checkbox \& Radio (체크박스 및 라디오)](#checkbox--radio-체크박스-및-라디오)
-    - [Tabs (탭)](#tabs-탭)
-    - [Avatar (아바타)](#avatar-아바타)
-    - [Spinner (로딩 스피너)](#spinner-로딩-스피너)
-  - [색상 시스템](#색상-시스템)
-  - [반응형 디자인](#반응형-디자인)
-  - [테마 커스터마이징](#테마-커스터마이징)
-  - [주요 기능](#주요-기능)
-  - [React Hook Form과 통합](#react-hook-form과-통합)
-  - [참고 자료](#참고-자료)
-  - [버전 정보](#버전-정보)
-  - [주의사항](#주의사항)
 
 ### Button (버튼)
 
