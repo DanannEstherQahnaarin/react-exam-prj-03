@@ -7,7 +7,6 @@
     - [1. ChakraProvider 설정](#1-chakraprovider-설정)
     - [2. TypeScript 설정](#2-typescript-설정)
   - [주요 컴포넌트 사용법](#주요-컴포넌트-사용법)
-    - [컴포넌트 목록](#컴포넌트-목록)
     - [Button (버튼)](#button-버튼)
     - [Input (입력 필드)](#input-입력-필드)
     - [Box \& Flex (레이아웃)](#box--flex-레이아웃)
