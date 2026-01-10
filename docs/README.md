@@ -21,6 +21,7 @@
 - [Axios](./axios.md) - Promise 기반의 HTTP 클라이언트 라이브러리
 
 ### 스타일링
+- [Chakra UI](./chakra-ui.md) - React 애플리케이션을 위한 컴포넌트 라이브러리
 - [Styled Components](./styled-components.md) - CSS-in-JS 라이브러리
 - [clsx](./clsx.md) - 조건부로 className 문자열을 생성하는 유틸리티
 - [tailwind-merge](./tailwind-merge.md) - Tailwind CSS 클래스명을 병합하고 충돌을 해결하는 유틸리티
